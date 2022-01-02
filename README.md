@@ -23,6 +23,7 @@ Project Justification:
 
 This project gives an idea how to move something in CGM. This idea can be useful for further big projects.
 
+- [@Youtube Link](https://youtu.be/PBcQjHJQfSg)
 
 ## Installation
 
